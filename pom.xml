@@ -26,7 +26,7 @@
 
     <groupId>org.codice.testify.processors</groupId>
     <artifactId>jschtestprocessor</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <packaging>bundle</packaging>
     <name>JSch Test Processor</name>
 
@@ -34,7 +34,7 @@
         <connection>scm:git:https://github.com/testify/JSchTestProcessor.git</connection>
         <developerConnection>scm:git:https://github.com/testify/JSchTestProcessor.git</developerConnection>
         <url>https://github.com/testify/JSchTestProcessor.git</url>
-      <tag>jschtestprocessor-0.0.1</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <properties>
